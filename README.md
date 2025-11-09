@@ -1,5 +1,5 @@
 <div>
-  <img height="165" width="auto" src="https://github-readme-streak-stats-eight.vercel.app/?user=KonuhovAND&theme=github-dark-dimmed#gh-dark-mode-only" alt="GitHub Streak (dark dimmed only)" />
+  <img height="165" width="auto" style ="border-radius:5%" src="https://github-readme-streak-stats-eight.vercel.app/?user=KonuhovAND&theme=github-dark-dimmed#gh-dark-mode-only" alt="GitHub Streak (dark dimmed only)" />
 </div>
 
 <div>
