@@ -8,5 +8,5 @@
 
 </div>
 <div>
-  <img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngfind.com%2Fpngs%2Fm%2F459-4594897_anime-anime-anime-girls-long-hair-simple-background.png&f=1&nofb=1&ipt=482545c25bdce069fa096cb9ae97afb7ce6362993f6b71d45067fb9084e8a553" height = "1000" />
+  <img src = "https://i.pinimg.com/736x/c5/59/ea/c559ea96ec9d9056c1928ab9515c36e6.jpg" height = "1000" />
 </div>
