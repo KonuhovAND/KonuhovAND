@@ -1,5 +1,5 @@
 <div>
-  <img  src = "https://i.pinimg.com/1200x/31/78/c1/3178c1f1ea3dfa570fb2e78905540882.jpg" height="165" width="auto" display="inline-block"/>
+  <img  src = "https://i.pinimg.com/1200x/31/78/c1/3178c1f1ea3dfa570fb2e78905540882.jpg" height="165" width="auto"/>
     <img height="165" width="auto" src="https://github-readme-streak-stats-eight.vercel.app/?user=KonuhovAND&theme=github-dark-dimmed#gh-dark-mode-only" alt="GitHub Streak (dark dimmed only)" />
 </div>
 
