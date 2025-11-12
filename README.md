@@ -8,5 +8,5 @@
 
 </div>
 <div>
-  <imt src = "https://fr.pinterest.com/pin/197736239885077745/" height = "1000" />
+  <img src = "https://fr.pinterest.com/pin/197736239885077745/" height = "1000" />
 </div>
