@@ -5,8 +5,6 @@
 
 <div>
   <img height="165" width="auto" src="https://github-readme-streak-stats-eight.vercel.app/?user=KonuhovAND&theme=github-dark-dimmed#gh-dark-mode-only" alt="GitHub Streak (dark dimmed only)" />
-
-</div>
-<div>
-  <img src = "https://i.pinimg.com/736x/c5/59/ea/c559ea96ec9d9056c1928ab9515c36e6.jpg" height = "1000" />
+  <img src = "https://i.pinimg.com/736x/c5/59/ea/c559ea96ec9d9056c1928ab9515c36e6.jpg" height = "165" width="auto"/>
+  
 </div>
