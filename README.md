@@ -7,9 +7,8 @@
 </div>
 
 <div>
-<img src="https://i.pinimg.com/736x/ac/f5/93/acf593080c869e65be1f99320dd4d97b.jpg
-" type="" hieght = "165">
-    <img src = "https://i.pinimg.com/736x/12/af/b9/12afb9eb5bd48eb4bd08490f9fe78cb9.jpg" hieght = "165"
+<img src="https://i.pinimg.com/736x/ac/f5/93/acf593080c869e65be1f99320dd4d97b.jpg" height = "165"/>
+    <img src = "https://i.pinimg.com/736x/12/af/b9/12afb9eb5bd48eb4bd08490f9fe78cb9.jpg" height = "165"/>
 </div>
 
 
