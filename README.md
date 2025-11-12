@@ -7,3 +7,6 @@
   <img height="165" width="auto" src="https://github-readme-streak-stats-eight.vercel.app/?user=KonuhovAND&theme=github-dark-dimmed#gh-dark-mode-only" alt="GitHub Streak (dark dimmed only)" />
 
 </div>
+<div>
+  <imt src = "https://fr.pinterest.com/pin/197736239885077745/" height = "1000" />
+</div>
