@@ -8,5 +8,5 @@
 
 </div>
 <div>
-  <img src = "https://www.vecteezy.com/png/32832770-beautifull-girl-anime-png-transparent-background-ai-generative" height = "1000" />
+  <img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngfind.com%2Fpngs%2Fm%2F459-4594897_anime-anime-anime-girls-long-hair-simple-background.png&f=1&nofb=1&ipt=482545c25bdce069fa096cb9ae97afb7ce6362993f6b71d45067fb9084e8a553" height = "1000" />
 </div>
