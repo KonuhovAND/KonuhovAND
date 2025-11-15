@@ -1,0 +1,2 @@
+- Materials to train AI - [data](https://www.dropbox.com/scl/fo/zxa6003erb0dd2mely0m4/APQRdxHYYG2cPgldQ3Kcp5M?rlkey=ilkhoemd1awmumsp7xw2n7t2f&st=o1ld5drb&dl=0)
+- Materials to prepare for exams - [data](https://www.dropbox.com/scl/fo/gf426um6hj1hdqsqyj7jf/AEQoq6h_VLh29LwVT_8vq64?rlkey=8ioq5oecldbgosvgs9ga0qjj2&st=vhk6cxvn&dl=0)
