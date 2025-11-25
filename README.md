@@ -13,5 +13,6 @@
 
   <img height="165" width="auto" src="https://github-readme-stats.vercel.app/api?username=KonuhovAND&theme=github_dark_dimmed&show_icons=true&include_all_commits=true&count_private=true#gh-dark-mode-only" alt="GitHub Stats (dark dimmed only)" />
 
+
 <img height="165" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonuhovAND&layout=compact&theme=github_dark_dimmed#gh-dark-mode-only" alt="Top Languages (dark dimmed only)" />
 
